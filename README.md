@@ -4,7 +4,7 @@ Create a sleek HTML layout with CSS styling for Masai Investors, featuring a pro
 - **Responsive** : Full responsiveness across various devices, including desktop, tablet, and mobile screens,  ensuring optimal viewing and functionality for all users.
 ## Installation
 
-Clone this repository to your local machine:
+1. Clone this repository to your local machine:
     ```
         git clone https://github.com/BhawarSuthar7023/Collaborative-Project-1-masai.git
     ```
